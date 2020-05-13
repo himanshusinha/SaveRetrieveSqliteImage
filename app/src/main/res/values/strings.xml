@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveRetriveSqliteImage</string>
+    <string name="button_insert">Insert</string>
+    <string name="hint_editText">Path</string>
+</resources>
